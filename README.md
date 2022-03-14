@@ -43,14 +43,14 @@ Your application code is in whatsapp_clone\lib\main.dart.
 
 <p float="left">
 
-  <img src="https://user-images.githubusercontent.com/57798484/158177835-4eb22bbc-3bca-4380-abf4-f1e7628995ac.png" width="500" />
-  <img src="https://user-images.githubusercontent.com/57798484/158177842-f5cc2c0a-c746-42ea-bf84-b47572dc0adb.png" width="500"/>
+  <img src="https://user-images.githubusercontent.com/57798484/158177835-4eb22bbc-3bca-4380-abf4-f1e7628995ac.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/57798484/158177842-f5cc2c0a-c746-42ea-bf84-b47572dc0adb.png" width="400"/>
 </p>
 
 <p float="left">
 
-  <img src="https://user-images.githubusercontent.com/57798484/158177845-1ddc858d-9574-4f7f-b542-dd9ac370bc2c.png" width="500" />
-  <img src="https://user-images.githubusercontent.com/57798484/158177831-61c0d9db-4d46-4e9e-9d5b-12de6ed95354.png" width="500"/>
+  <img src="https://user-images.githubusercontent.com/57798484/158177845-1ddc858d-9574-4f7f-b542-dd9ac370bc2c.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/57798484/158177831-61c0d9db-4d46-4e9e-9d5b-12de6ed95354.png" width="400"/>
 </p>
 
 
